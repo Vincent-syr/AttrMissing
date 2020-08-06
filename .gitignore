@@ -1,0 +1,4 @@
+*.tar
+runs/
+dataset/
+__pycache__/
